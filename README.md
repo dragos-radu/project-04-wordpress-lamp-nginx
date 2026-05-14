@@ -71,3 +71,10 @@ Validation:
 - User: wordpress_user
 - Host: localhost
 - Public MySQL access: disabled
+
+## Reverse Proxy
+
+- Nginx listens on port 80
+- Apache listens on port 8080
+- Nginx forwards traffic to Apache
+- WordPress runs from /var/www/html

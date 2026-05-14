@@ -40,3 +40,12 @@ project-04-wordpress-lamp-nginx/
 ## Project Status
 
 In progress
+
+## AWS EC2
+
+- Region: eu-central-1
+- AMI: Ubuntu 22.04
+- Instance type: t3.micro
+- Storage: 10 GB gp3
+- Public ports: 22, 80
+- MySQL public access: disabled

@@ -78,3 +78,12 @@ Validation:
 - Apache listens on port 8080
 - Nginx forwards traffic to Apache
 - WordPress runs from /var/www/html
+
+## Backups
+
+- Backup script: /usr/local/bin/backup-wordpress.sh
+- Backup location: /home/ubuntu/wordpress-backups
+- Database backup: mysqldump
+- Files backup: tar.gz archive
+- Schedule: daily at 02:00 using cron
+- Retention: 7 days

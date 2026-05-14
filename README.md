@@ -49,3 +49,18 @@ In progress
 - Storage: 10 GB gp3
 - Public ports: 22, 80
 - MySQL public access: disabled
+
+## LAMP Stack
+
+Installed components:
+
+- Apache
+- MySQL
+- PHP
+- WordPress PHP extensions
+
+Validation:
+
+- Apache service active
+- MySQL service active
+- PHP tested with phpinfo

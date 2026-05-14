@@ -64,3 +64,10 @@ Validation:
 - Apache service active
 - MySQL service active
 - PHP tested with phpinfo
+
+## WordPress Database
+
+- Database: wordpress_db
+- User: wordpress_user
+- Host: localhost
+- Public MySQL access: disabled

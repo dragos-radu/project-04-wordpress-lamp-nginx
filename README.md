@@ -39,7 +39,7 @@ project-04-wordpress-lamp-nginx/
 
 ## Project Status
 
-In progress
+Completed
 
 ## AWS EC2
 
